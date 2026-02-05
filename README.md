@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix (@FHeise0624)
-- 👀 I’m interested in ballroom dancing, reading, videogames and coding.
+- 👀 I’m interested in ballroom dancing, reading, videogames, 3d-printing and coding.
 - 🌱 I’m currently learning Python, Java & C++.
 - 💞️ I’m a computer science student at Goethe Universitaet Frankfurt.
 - 💼 I'm working as a software developer at Sinabis Analytics GmbH.
