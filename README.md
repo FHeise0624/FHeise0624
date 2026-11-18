@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felix (@FHeise0624)
-- 👀 I’m interested in ballroom dancing, reading, videogames, 3d-printing and coding.
-- 🌱 I’m currently learning Python, Java & C++.
-- 💞️ I’m a computer science student at Goethe Universitaet Frankfurt.
+- 👀 I’m interested in ballroom dancing, reading, video games, 3D printing, 3d-printing and coding.
+- 🌱 I’m currently learning Python and Java.
+- 💞️ I’m a computer science student at Goethe University Frankfurt.
 - 💼 I'm working as a software developer at Sinabis Analytics GmbH.
 - 📫 How to reach me felixheise.fh@gmail.com
 - 😄 Pronouns: He/Him
